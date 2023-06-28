@@ -1,0 +1,25 @@
+{
+  "name": "coder-backend-example-singleton-express",
+  "version": "1.0.0",
+  "description": "An E-commerce example project for my Backend Classes at Coderhouse",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmarinmendez/coder-backend-example-ecomm-api.git"
+  },
+  "keywords": [],
+  "author": "Alex Marin Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmarinmendez/coder-backend-example-ecomm-api/issues"
+  },
+  "homepage": "https://github.com/alexmarinmendez/coder-backend-example-ecomm-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
